@@ -30,7 +30,8 @@ Cognitive-motor interference research suggests that balance control adapts dynam
 # R Package 
 We developed an R Package to process continuous force-plate data. Have a look!
 [https://github.com/RaphaelHartmann/forceplate]
-There is also a publication on this R Package: 
+
+## There is also a publication on this R Package: 
 Hartmann, R., Koger, A., Straub, E. R., Johannsen, L., Koch, I., Stephan, D. N., Müller, H., & Kiesel, A. (2025). Forceplate: An R package for processing raw force-plate time-series data. *Behavior Research Methods, 57*(7), 187. [https://doi.org/10.3758/s13428-025-02657-8]
 
 
